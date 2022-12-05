@@ -24,7 +24,7 @@
     "bluebird": "3.3.3",
     "config": "1.19.0",
     "cookie-parser": "1.4.1",
-    "express": "4.13.4",
+    "express": "4.17.3",
     "fb-sleep": "2.2.3",
     "highcharts": "4.2.3",
     "highcharts-exporting": "0.1.2",
@@ -37,7 +37,7 @@
     "react-highcharts": "8.0.2",
     "react-router": "2.0.0",
     "request-promise": "2.0.1",
-    "superagent": "1.6.1"
+    "superagent": "2.0.0"
   },
   "devDependencies": {
     "babel-core": "6.6.4",
