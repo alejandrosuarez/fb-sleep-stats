@@ -37,7 +37,7 @@
     "react-highcharts": "8.0.2",
     "react-router": "2.0.0",
     "request-promise": "2.0.1",
-    "superagent": "1.6.1"
+    "superagent": "3.6.1"
   },
   "devDependencies": {
     "babel-core": "6.6.4",
