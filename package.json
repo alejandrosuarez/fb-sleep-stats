@@ -24,7 +24,7 @@
     "bluebird": "3.3.3",
     "config": "1.19.0",
     "cookie-parser": "1.4.1",
-    "express": "4.13.4",
+    "express": "4.21.0",
     "fb-sleep": "2.2.3",
     "highcharts": "4.2.3",
     "highcharts-exporting": "0.1.2",
